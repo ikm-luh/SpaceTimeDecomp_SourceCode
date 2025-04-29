@@ -1,11 +1,16 @@
 # SpaceTimeDecomp_SourceCode
+Corresponding Code to the paper "A fully separated space-time decomposition for viscoelasticity" by Hendrik Geisler, David Néron and Philipp Junker.
+For all boundary value examples, the code for the PGD computation and the usual time-step-wise Newton-Raphson method are presented.
+
+The code implementation for the femur example is the most thoroughly documented. 
+
+For the FEM computation, the Julia package "Ferrite.jl" is used.
+The input file reader src/inp_reader has been developed by Dustin Jantos.
 
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
 > SpaceTimeDecomp_SourceCode
-
-It is authored by Geisler.
 
 To (locally) reproduce this project, do the following:
 
