@@ -33,3 +33,6 @@ using DrWatson
 @quickactivate "SpaceTimeDecomp_SourceCode"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
+
+
+Funded by the European Union (ERC, Gen-TSM, project number 101124463). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
